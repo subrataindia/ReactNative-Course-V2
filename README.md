@@ -20,11 +20,14 @@
     - using platform module
     - using specific file extension
   - Review of react hooks
-  - Redux Toolkit
+  - React Redux Toolkit
   - Ajax in React Native
 - Session 3
-  - Create builds using EAS 
-  - Create builds using CLI
+  - TextInput
+  - Radio Button
+  - Check Box
+  - Dropdown
+  - Switch
 - Session 4
   - React Navigation
     - Native Stack Navigation
@@ -35,12 +38,13 @@
   - FlatList
   - Section List
   - Touchable and Pressable
-- Session 6  
+- Session 6
+  - Create builds using EAS 
+  - Create builds using CLI
+- Session 7
   - Camera
   - Location
   - Handling Gestures
 
-
-Single-value Controls
 
 
