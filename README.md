@@ -23,11 +23,8 @@
   - React Redux Toolkit
   - Ajax in React Native
 - Session 3
-  - TextInput
-  - Radio Button
-  - Check Box
-  - Dropdown
-  - Switch
+  - Create builds using EAS 
+  - Create builds using CLI
 - Session 4
   - React Navigation
     - Native Stack Navigation
@@ -39,8 +36,11 @@
   - Section List
   - Touchable and Pressable
 - Session 6
-  - Create builds using EAS 
-  - Create builds using CLI
+  - TextInput
+  - Radio Button
+  - Check Box
+  - Dropdown
+  - Switch 
 - Session 7
   - Camera
   - Location
