@@ -36,11 +36,7 @@
   - Section List
   - Touchable and Pressable
 - Session 6
-  - TextInput
-  - Radio Button
-  - Check Box
-  - Dropdown
-  - Switch 
+  - Single Value Controls (need more clarity on this)
 - Session 7
   - Camera
   - Location
