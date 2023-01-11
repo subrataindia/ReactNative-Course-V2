@@ -37,8 +37,6 @@
     - Sample App
 - Ajax in React Native using Fetch & Axios
 
-Assignment: Implement Add To Cart Option
-
 ## Session - 4
 
 - Create builds using EAS
@@ -55,8 +53,6 @@ Assignment: Implement Add To Cart Option
 - Drawer Navigation
 - Nested Navigation
 
-Assignment: Create an e commerce app having login screen and home screen. 
-
 ## Session - 6 
 
 - AsyncStorage / Localstorage
@@ -66,7 +62,4 @@ Assignment: Create an e commerce app having login screen and home screen.
 - Radio Button
 - Dropdown
 - Switch
-
-Assignment: Create React Native Calculator with Memory Option.
-- All the calculations should be shared on memory - Pressing M+ button should display next stored calculation - Pressing M- button should display Previous stored calculation - Pressing Mc button should clear all stored calculations    
 
