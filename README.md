@@ -1,7 +1,5 @@
 # ReactNative
 
-# React-Native-Course---v2-Private
-
 ## Session -1 React Native Components 1
 
 - View
