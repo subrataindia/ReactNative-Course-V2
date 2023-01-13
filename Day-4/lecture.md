@@ -143,6 +143,37 @@ eas build --platform all
 
 [Detailsed official documentation of React Native](https://reactnative.dev/docs/signed-apk-android)
 
+# Use EAS Build on Bare React Native Project
 
+If you have created a bare project in this way
+
+```js
+npx react-native init AwesomeProject
+```
+
+[Install Expo](https://docs.expo.dev/bare/installing-expo-modules/)
+
+```js
+npx install-expo-modules@latest
+```
+
+## Update android/build.gradle
+
+```js
+allprojects {
+    repositories {
+        ...
+        maven {
+            // Android JSC is installed from npm
+            url("$rootDir/../node_modules/jsc-android/dist")
+        }
+        ...
+    }
+}            
+```
+
+rest process are same with your EAS build.
+
+[official documentation](https://docs.expo.dev/bare/updating-your-app/)
 
 
