@@ -645,3 +645,5 @@ const HomeStack = () => {
 
 export default HomeStack;
 ```
+
+[Working Example](https://snack.expo.dev/@subrat1977/navigationexample)
